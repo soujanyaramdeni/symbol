@@ -1,0 +1,2 @@
+# symbol
+list with symbol
